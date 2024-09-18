@@ -15,7 +15,7 @@ ________________________________________________
 This project is a web application to manage RESTful properties, providing a series of endpoints that allow an efficient and flexible administration of both properties and the images associated with them. The microservice architecture is geared towards facilitating CRUD (Create, Read, Update, Delete) operations for properties and their images, as well as advanced queries that allow users to find properties according to specific criteria. 
 
 ## Who is it for?
-- Anyone who wants to learn ASP NET MVC core from basics to advanced
+- Anyone who wants to learn ASP NET core from basics to advanced
 - Anyone who wants to learn the latest changes with the new Microsoft framework
 - Anyone interested in learning how to design large-scale projects
 - Anyone interested in learning SOLID, Design Patterns and good practices
@@ -25,9 +25,10 @@ more than 12 months of knowledge of Cv, additionally prior knowledge in addition
 
 ## What you will learn
 - Learn the structure of the NET 8 project, Layered architecture
-- Learn the basics of ASP NET Core
+- Learn the basics of ASP NET Core C# version 12
 - Integrate with the Entity Framework and learn how to add more fields to users
 - Integrate the Entity Framework along with early code migrations
 - Authentication and authorization in ASP NET Core
 - ASP NET Core sessions
 - Create APIs and JSON
+- AutoMapper
